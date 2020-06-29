@@ -1,0 +1,4 @@
+com\meru\product\service\ProductServiceTest.class
+com\meru\product\repository\ProductRepositoryTest.class
+com\meru\product\controller\ProductControllerTest.class
+com\meru\product\ProductServiceApplicationTests.class

@@ -1,0 +1,8 @@
+com\meru\promotion\model\Promotion.class
+com\meru\promotion\service\PromotionService.class
+com\meru\promotion\exception\ExceptionHandlerControllerAdvice.class
+com\meru\promotion\exception\ExceptionResponse.class
+com\meru\promotion\repository\PromotionRepository.class
+com\meru\promotion\PromotionSystemApplication.class
+com\meru\promotion\controller\PromotionController.class
+com\meru\promotion\exception\ResourceNotFoundException.class

@@ -1,0 +1,8 @@
+com\meru\inventory\exception\ExceptionResponse.class
+com\meru\inventory\exception\ResourceNotFoundException.class
+com\meru\inventory\model\Inventory.class
+com\meru\inventory\repository\InventoryRepository.class
+com\meru\inventory\controller\InventoryController.class
+com\meru\inventory\InventorySystemApplication.class
+com\meru\inventory\exception\ExceptionHandlerControllerAdvice.class
+com\meru\inventory\service\InventoryService.class

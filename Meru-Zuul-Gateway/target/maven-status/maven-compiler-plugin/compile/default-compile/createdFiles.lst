@@ -1,0 +1,5 @@
+com\meru\meruzuulgateway\filters\RouteFilter.class
+com\meru\meruzuulgateway\filters\PostFilter.class
+com\meru\meruzuulgateway\filters\PreFilter.class
+com\meru\meruzuulgateway\filters\ErrorFilter.class
+com\meru\meruzuulgateway\MeruZuulGatewayApplication.class

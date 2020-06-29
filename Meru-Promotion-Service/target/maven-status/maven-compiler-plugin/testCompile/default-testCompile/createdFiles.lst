@@ -1,0 +1,4 @@
+com\meru\promotion\PromotionSystemApplicationTests.class
+com\meru\promotion\repository\PromotionRepositoryTest.class
+com\meru\promotion\controller\PromotionControllerTest.class
+com\meru\promotion\service\PromotionServiceTest.class

@@ -1,0 +1,4 @@
+com\meru\inventory\repository\InventoryRepositoryTest.class
+com\meru\inventory\InventorySystemApplicationTests.class
+com\meru\inventory\controller\InventoryControllerTest.class
+com\meru\inventory\service\InventoryServiceTest.class

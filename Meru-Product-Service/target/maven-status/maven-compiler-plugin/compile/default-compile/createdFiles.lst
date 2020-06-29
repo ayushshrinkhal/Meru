@@ -1,0 +1,11 @@
+com\meru\product\ProductServiceApplication.class
+com\meru\product\model\Inventory.class
+com\meru\product\model\Product.class
+com\meru\product\model\ProductPromotionStore.class
+com\meru\product\controller\ProductController.class
+com\meru\product\service\ProductService.class
+com\meru\product\exception\ExceptionResponse.class
+com\meru\product\repository\ProductRepository.class
+com\meru\product\exception\ResourceNotFoundException.class
+com\meru\product\model\ProductInventory.class
+com\meru\product\exception\ExceptionHandlerControllerAdvice.class
