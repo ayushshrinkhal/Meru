@@ -1,0 +1,38 @@
+meru-service-registry:
+  image: meru-service-registry
+  ports:
+   - "8761:8761"
+meru-config-server:
+  image: meru-config-server
+  ports:
+   - "8888:8888"
+meru-zuul-gateway:
+  image: meru-zuul-gateway
+  ports:
+   - "9191:9191"
+  links:
+   - meru-service-registry
+   - meru-inventory-service
+   - meru-promotion-service
+   - meru-store-service
+   - meru-product-service
+meru-inventory-service:
+  image: meru-inventory-service
+  links:
+   - meru-service-registry
+   - meru-config-server
+meru-promotion-service:
+  image: meru-promotion-service
+  links:
+   - meru-service-registry
+   - meru-config-server
+meru-store-service:
+  image: meru-store-service
+  links:
+   - meru-service-registry
+   - meru-config-server
+meru-product-service:
+  image: meru-product-service
+  links:
+   - meru-service-registry
+   - meru-config-server

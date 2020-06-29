@@ -1,0 +1,10 @@
+com\meru\store\controller\StoreController.class
+com\meru\store\service\StoreServiceImpl.class
+com\meru\store\exception\ExceptionResponse.class
+com\meru\store\exception\ExceptionHandlerControllerAdvice.class
+com\meru\store\MeruStoreServiceApplication.class
+com\meru\store\model\Store.class
+com\meru\store\service\StoreService.class
+com\meru\store\repository\StoreRepository.class
+com\meru\store\exception\ResourceNotFoundException.class
+com\meru\store\model\Inventory.class

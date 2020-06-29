@@ -1,0 +1,3 @@
+com\meru\store\MeruStoreServiceApplicationTests.class
+com\meru\store\controller\StoreControllerTest.class
+com\meru\store\service\StoreServiceImplTest.class
